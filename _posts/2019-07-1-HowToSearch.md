@@ -6,16 +6,16 @@ tags:
   - Nothing
 ---
 
-`前语:不要问为什么我要写这个东西 问就是滑稽😛`
+`前语:不要问为什么我要写这个东西 问就是滑稽🤣`
 ## 如何使用搜索引擎搜索自己想要的信息
 共有五个步骤哦~~~~~~~~~~~~~~~~~~~~~~~~
 ### 第一步 打开浏览器
 
 拥有一个浏览器，打开它！
-(既然你能看到这片水文，说明你已经拥有一个浏览器了。)
+(既然能看到这篇文章，就说明你已经拥有一个浏览器了。)
 
 ### 第二步 键入搜索引擎地址
-在浏览器的地址栏键入一个搜索引擎地址
+在浏览器的地址栏输入搜索引擎地址
 <a href="{{ site.url }}/images/post1-2.png"><img src="{{ site.url }}/images/post1-2.png" alt="键入框"></a>  
 
 {% highlight yaml %}
@@ -23,7 +23,6 @@ tags:
 - 百度Baidu # https://www.baidu.com ；
 - 微软必应Bing # https://cn.bing.com ；
 - 搜狗Sogou # https://www.sogou.com ；
-- 比特Bitsoo # soo.bitdock.cn
 {% endhighlight %}
 
 ### 第三步 进入搜索网站
