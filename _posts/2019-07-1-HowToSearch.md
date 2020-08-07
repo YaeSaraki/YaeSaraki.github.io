@@ -38,15 +38,13 @@ tags:
 在搜索引擎或浏览器地址栏(需浏览器支持)内输入自定义搜索引擎地址和搜索内容进行搜索
 
 {% highlight yaml %}
-
-常用内部自定义搜索引擎地址
+常用内部自定义搜索引擎地址:
 - 哔哩哔哩：search.bilibili.com/all?keyword=%s
 - 京东：search.jd.com/Search?keyword=%s
 - 微博：s.weibo.com/weibo/%s
 - Steam：store.steampowered.com/search/?term=%s
 
 %s替换为需搜索信息的关键词
-
 {% endhighlight %}
 
 ---
