@@ -91,8 +91,7 @@ tags:
 
 #### 指定域名内搜索: site:网站域名
  例: '白上吹雪 site:bilibili.com
-
- 仅在bilibili内搜索白上吹雪
+仅在bilibili内搜索白上吹雪
 
 注: 可叠加或多个使用 所有符号均为半角(英文)
 
