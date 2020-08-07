@@ -30,10 +30,10 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-email:             DreamMingHe@163.com
-#google.plus:        username
-#twitter:            DreamMingHe
-#facebook:           DreamMingHe
+email:              DreamMingHe@163.com
+#google.plus:       username
+#twitter:           DreamMingHe
+#facebook:          DreamMingHe
 github:             DreamMingHe
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
@@ -43,11 +43,11 @@ github:             DreamMingHe
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:             ikaraseay
+steam:              ikaraseay
 #dribbble:          username
 #youtube:           username
 #soundcloud:        Kaitlynnnnn
-#weibo:              DreamMingHe
+#weibo:             DreamMingHe
 #flickr:            username
 #codepen:           username
 #keybase:           username
@@ -56,8 +56,8 @@ steam:             ikaraseay
 #behance:           DreamMingHe
 NetEaseMusic:       326210295
 QQ:                 1635376770
-Wechat:             LOL
-#Bilibili:           305615505
+Wechat:             233
+#Bilibili:          305615505
 
 
 # Gems
