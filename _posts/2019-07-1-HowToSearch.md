@@ -44,7 +44,7 @@ tags:
 - 微博：s.weibo.com/weibo/%s
 - Steam：store.steampowered.com/search/?term=%s
 
-%s替换为需搜索信息的关键词
+%%s替换为需搜索信息的关键词
 {% endhighlight %}
 ---
 
