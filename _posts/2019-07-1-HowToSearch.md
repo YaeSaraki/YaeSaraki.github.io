@@ -33,17 +33,16 @@ tags:
 ### 第五步 查看搜索结果
 在搜索结果中查找所需信息，若搜索不到自己想要的信息，请尝试更换关键词或搜索引擎。
 ---
-
-
 ##进阶
 ###快速使用某网站内部搜索引擎搜索信息
 在搜索引擎或浏览器地址栏(需浏览器支持)内输入自定义搜索引擎地址和搜索内容进行搜索
+
 {% highlight yaml %}
 常用内部自定义搜索引擎地址
-哔哩哔哩：search.bilibili.com/all?keyword=%s
-京东：search.jd.com/Search?keyword=%s
-微博：s.weibo.com/weibo/%s
-Steam：store.steampowered.com/search/?term=%s
+- 哔哩哔哩：search.bilibili.com/all?keyword=%s
+- 京东：search.jd.com/Search?keyword=%s
+- 微博：s.weibo.com/weibo/%s
+- Steam：store.steampowered.com/search/?term=%s
 
 %s替换为需搜索信息的关键词
 {% endhighlight %}
