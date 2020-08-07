@@ -1,8 +1,8 @@
 # 信息
 
-主题为 [Taylan Tatlı](https://github.com/TaylanTatli) 的 [Halve](https://taylantatli.github.io/Halve/)
+主题为 [Taylan Tatlı](https://github.com/TaylanTatli) 分享的 [Halve](https://taylantatli.github.io/Halve/)
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)
+This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) by [Vangelis Tzortzis](https://github.com/srekoble)
 
 ## Preview   
 ![screenshot of Halve](/images/halve-home-image.png)
