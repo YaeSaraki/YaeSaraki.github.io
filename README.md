@@ -1,4 +1,4 @@
-# 信息
+### 信息
 
 主题为 [Taylan Tatlı](https://github.com/TaylanTatli) 分享的 [Halve](https://taylantatli.github.io/Halve/)
 
